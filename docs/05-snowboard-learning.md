@@ -1,6 +1,6 @@
 # 单板入门：从单脚移动到连续换刃
 
-[返回首页](../README.md) · [基础知识](02-basics-and-safety.md) · [B 站视频](../resources/videos.md)
+[返回首页](../README.md) · [基础知识](02-basics-and-safety.md) · [教学视频](../resources/videos.md)
 
 本页帮助理解课程顺序和记录练习。单板教学体系的练习安排可能不同，现场教练会按地形、身体条件和已有动作调整。不存在适合所有人的“几小时包换刃”。
 
@@ -71,6 +71,9 @@
 
 ## 建议的视频使用顺序
 
-先看 [李天乐 Alan 入门合集](https://www.bilibili.com/video/BV1ev41187BJ/) 了解学习地图，再按课程进度复看对应章节。不要一次看完就跳过前面的地形适应。
+1. **零基础主线**：从 [黄嘉蓝初级教程（一）入门介绍](https://www.bilibili.com/video/BV1FN4y177Sm/) 开始，按作者编号看基础站姿、平地移动、转弯与换刃。[视频导航](../resources/videos.md) 已列出完整十节链接。
+2. **整体流程预习**：看楚格山里人的 [12 步单板（上）](https://www.bilibili.com/video/BV18J411t7LR/) 和 [下集](https://www.bilibili.com/video/BV1WJ411a7BV/)。先选一套课程作主线，不把不同系列的练习顺序机械拼接。
+3. **稳定换刃后**：从 [SAM 中阶单板教学（抖音原作者合集）](https://www.douyin.com/collection/7624168970219702272/1) 按问题选择复盘内容；其中小回转、陡坡等主题需要已有相应基础。
+4. **专项提高**：在具备对应技术能力后，结合教练反馈看 [SAM 高阶合集](https://www.douyin.com/collection/7623617473039828992/1)，不直接复制针对其他滑手的纠正口令。
 
 更多链接与核验说明见 [视频导航](../resources/videos.md)。每次只选一个练习目标，课后记录可重复完成的动作，而不是只记“今天终于上蓝道了”。

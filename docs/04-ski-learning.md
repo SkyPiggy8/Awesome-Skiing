@@ -1,8 +1,10 @@
 # 双板入门：从认识装备到连续控制转弯
 
-[返回首页](../README.md) · [基础知识](02-basics-and-safety.md) · [B 站视频](../resources/videos.md)
+[返回首页](../README.md) · [基础知识](02-basics-and-safety.md) · [教学视频](../resources/videos.md)
 
 本页是学习路线和复盘提纲。练习地点由现场教练按能力、雪况和人流选择，动作不能只靠文字判断是否正确。以下阶段没有固定完成天数。
+
+视频主线选用楚格山里人的 [25 步双板教学（上）](https://www.bilibili.com/video/BV1bp4y1r7oE/)；进入连续转弯和平行式阶段后，再按能力看 [下集](https://www.bilibili.com/video/BV1pp4y1r71u/)。[完整视频目录](../resources/videos.md) 另有 50 个练习的资料入口和核验说明，按课堂进度选用。
 
 ## 阶段 0：知道如何使用装备
 

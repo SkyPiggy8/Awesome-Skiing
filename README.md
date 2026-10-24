@@ -16,7 +16,7 @@
 4. [双板入门路线](docs/04-ski-learning.md) / [单板入门路线](docs/05-snowboard-learning.md)——先建立控制，再增加难度。
 5. [雪场目录](resorts/README.md) + [预算怎么做](docs/06-budget.md)——选能练习的地方，把账算全。
 
-只剩十分钟准备？打开 [出发清单](templates/trip-checklist.md)。想先看视频？打开 [B 站教学导航](resources/videos.md)。
+只剩十分钟准备？打开 [出发清单](templates/trip-checklist.md)。想先看视频？打开 [教学视频导航](resources/videos.md)：楚格山里人单双板系列、黄嘉蓝单板初级十节，以及 SAM 单板进阶合集。前两位链接 B 站，SAM 链接已核对的抖音原作者合集。
 
 ## 内容地图
 
