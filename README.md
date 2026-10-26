@@ -6,15 +6,18 @@
 
 **只推荐装备类型与选择方法，不推荐品牌、型号，不放返佣购买链接。** 不需要先买齐装备，也不需要先弄懂所有术语。
 
-首版整理日期：**2026-10-24**。预算均为人民币、人均规划测算，**不是雪场报价**；2026—2027 雪季具体票价、开放雪道与接驳，以出行日期的官方信息为准。每个雪场页面都有来源与待确认事项。
+知识地图更新：**2026-10-26**，原有条目保留各自核验日期。预算均为人民币、人均规划测算，**不是雪场报价**；2026—2027 雪季具体票价、开放雪道与接驳，以出行日期的官方信息为准。每个雪场页面都有来源与待确认事项。
 
 ## 第一次来，从这里开始
 
-1. [第一次滑雪：从订票到归还装备](docs/01-first-day.md)——照着做完一整天。
-2. [基础知识与雪场规则](docs/02-basics-and-safety.md)——理解雪道、速度、雪况、缆车和避让。
-3. [装备：租什么、买什么、怎么试](docs/03-equipment.md)——按使用场景选择装备类型。
-4. [双板入门路线](docs/04-ski-learning.md) / [单板入门路线](docs/05-snowboard-learning.md)——先建立控制，再增加难度。
-5. [雪场目录](resorts/README.md) + [预算怎么做](docs/06-budget.md)——选能练习的地方，把账算全。
+先打开 **[六个问题的知识地图](docs/00-knowledge-map.md)**，按自己的目的选“玩半天雪”“认真学滑行”或“已有基础想进步”。
+
+1. **我选单板还是双板？** [差异、选择方法与社区经验](docs/10-ski-or-snowboard.md)。
+2. **第一次买什么，怎样买得划算？** [最小装备清单、租买与试穿](docs/03-equipment.md)。
+3. **请教练还是自学？** [课程选择、单双板视频与短教程](docs/07-lessons-and-travel.md)。
+4. **不看教程、不请教练，怎么玩？** [平地体验、娱雪和现场说明](docs/11-first-day-without-lessons.md)。
+5. **去哪滑，出了车站怎么走？** [室内/室外雪场目录](resorts/README.md) · [具体站点与时间](resorts/transport.md)。
+6. **雪票、住滑、保暖、跟拍还有哪些细节？** [买票与住滑](docs/12-tickets-and-stay.md) · [面罩与穿衣](docs/03-equipment.md) · [录像复盘和时间投入](docs/13-filming-and-progress.md)。
 
 只剩十分钟准备？打开 [出发清单](templates/trip-checklist.md)。想先看视频？打开 [教学视频导航](resources/videos.md)：楚格山里人单双板系列、黄嘉蓝单板初级十节，以及 SAM 单板进阶合集。前两位链接 B 站，SAM 链接已核对的抖音原作者合集。
 
@@ -22,18 +25,20 @@
 
 | 我想知道 | 去哪里看 |
 | --- | --- |
-| 单板和双板选哪个？第一次需要教练吗？ | [第一次滑雪](docs/01-first-day.md) |
+| 单板和双板选哪个？ | [项目选择](docs/10-ski-or-snowboard.md) · [已读小红书图文](resources/community-notes.md) |
+| 从订票到归还装备，一天怎么安排？ | [第一次滑雪](docs/01-first-day.md) |
+| 不想上课，怎样轻松体验？ | [不请教练的体验边界](docs/11-first-day-without-lessons.md) |
 | 为什么一直加速？什么是滚落线、刃和弯形？ | [基础知识](docs/02-basics-and-safety.md) |
 | 头盔、雪镜、雪服、护具、雪鞋、雪板怎么选？ | [装备指南](docs/03-equipment.md) |
 | 双板犁式、转弯、平行式分别学什么？ | [双板路线](docs/04-ski-learning.md) |
 | 单板推坡、落叶飘、换刃是什么关系？ | [单板路线](docs/05-snowboard-learning.md) |
-| 雪票为什么便宜，最后还是花了很多？ | [预算与套餐](docs/06-budget.md) |
+| 雪票为什么便宜，最后还是花了很多？ | [预算](docs/06-budget.md) · [比价、住滑与次卡](docs/12-tickets-and-stay.md) |
 | 怎么约课、安排交通、和朋友一起滑？ | [课程与出行](docs/07-lessons-and-travel.md) |
 | 雪镜起雾、鞋不舒服、雪板生锈怎么办？ | [维护与常见问题](docs/08-care-and-faq.md) |
 | 滑雪黑话看不懂 | [术语表](docs/09-glossary.md) |
-| 想记录进步，而不是只记速度和里程 | [练习日志](templates/practice-log.md) |
+| 朋友怎么帮拍，省钱与进步怎么兼顾？ | [拍摄与进步](docs/13-filming-and-progress.md) · [练习日志](templates/practice-log.md) |
 
-## 首版雪场覆盖
+## 雪场覆盖
 
 | 区域 | 指南 |
 | --- | --- |
@@ -43,8 +48,9 @@
 | 长白山区域 | [万达](resorts/changbaishan-wanda.md) · [华美胜地](resorts/changbaishan-huamei.md) |
 | 新疆 | [将军山](resorts/jiangjunshan.md) · [可可托海](resorts/keketuohai.md) · [禾木吉克普林](resorts/jikepulin.md) |
 | 西南、华东 | [西岭雪山](resorts/xiling.md) · [上海耀雪与太仓阿尔卑斯](resorts/indoor-east-china.md) |
+| 华南室内 | [广州热雪奇迹：广州北站到雪场](resorts/guangzhou-indoor.md) |
 
-这是 **16 个代表性目的地**的初版，不是全国雪场排名。其他城市的室内真雪馆、小型教学场同样可能适合第一次体验，选择方法见 [雪场目录](resorts/README.md)。
+目前覆盖 **17 个代表性目的地**，不是全国雪场排名。其他城市的室内真雪馆、小型教学场同样可能适合第一次体验。先比较 [室内/室外与末段交通](resorts/transport.md)，再看逐场预算；小红书照片只作为现场参考，见 [阅读记录与局限](resources/community-notes.md)。
 
 ## 我们如何维护信息
 

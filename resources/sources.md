@@ -4,6 +4,25 @@
 
 首版检索与整理日期：**2026-10-24**。本文件帮助维护者追溯依据，具体引用也放在相关章节旁。
 
+**2026-10-25—26 补充**：六问知识地图、单双板比较、首次装备、教练与体验路线、雪票住滑、录像复盘和交通。小红书为登录后实际打开的笔记，逐条注明阅读范围；没有到场亲测，也没有逐场实时询价。见 [社区图文记录](community-notes.md) 与 [交通表的来源说明](../resorts/transport.md)。
+
+## 本次知识地图的新增依据
+
+| 来源 | 用途与限制 |
+| --- | --- |
+| [Blue Mountain：单双板比较](https://thebarn.bluemountain.ca/barn/lift-line/should-i-learn-to-ski-or-learn-to-snowboard/) | 站姿、初期移动与平路差异；不采用固定学习天数作为承诺 |
+| [REI：第一次出行](https://www.rei.com/learn/expert-advice/planning-your-first-time-skiing-or-snowboarding.html) | 租赁、入门套餐、课程与场地准备；不采用商品推荐 |
+| [r/ski：首次单双板选择讨论](https://www.reddit.com/r/ski/comments/1sx08pm/beginner_ski_vs_snowboarding/) | 个人兴趣、同伴与失败体验的差异；不是统计样本或教练共识 |
+| [广州热雪奇迹 2026 年 9—12 月公告](https://www.sina.cn/news/detail/5343007041652099.html) | 2026-09-14 场馆认证账号发布，说明交通、分区、租赁与公开课；具体购买商品和到访日另核 |
+| [Klook 广州场馆页](https://www.klook.com/zh-CN/activity/23416-sunac-snow-park-admission-ticket-guang-zhou/) | 广州北站短途车程及城际路线参考；商业票务来源，旧公交表不当现行路线 |
+| [花都区交通运输局](https://www.huadu.gov.cn/zfxxgkml/gzshdqjtysj/content/mpost_9476142.html) | 国铁广州北站与城际花都站换乘/广场背景；非实时导航 |
+| [上海耀雪政务交通介绍](https://m.thepaper.cn/newsDetail_forward_32619595) | 临港大道站 2 口与步行路线 |
+| [南山官方交通](https://www.nanshanski.com/hzns) | 密云站末段交通；班车按当季公告 |
+| [太舞社区攻略](https://66ski.com/5/twbk.html) · [松花湖社区交通](https://www.xuenarui.com/resorts/2) | 末段车程参考；旧铁路规定、票价和班次不直接采用 |
+| [吉林交通 2024—2025 雪季线路](https://jtyst.jl.gov.cn/ygj/jtyw_5912/202411/t20241126_9000468.html) | 历史 313/323 线路依据；不证明新雪季已经运行 |
+
+AI 参与结构与内容归纳；曾查看小红书点点的单双板搜索摘要，但不把其汇总人数、伤病判断或固定进度当作证据。面罩温度表、交通缓冲、预算数字和投入三角均为有边界的编辑建议，正文已分别标记。
+
 ## 如何理解首版的可靠程度
 
 - **已检索资料**：链接和相关文字出现在公开页面或其搜索索引中；不等同于实地核验。
