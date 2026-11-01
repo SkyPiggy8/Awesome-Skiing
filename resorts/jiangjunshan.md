@@ -52,4 +52,4 @@
 - [新疆政府新闻发布会：雪场定位](https://www.xinjiang.gov.cn/xinjiang/xwfb/202412/f9ab8e0cd0c54bb4b18e6fb6855e2dd7.shtml)：2024 年地点与定位背景。
 - [新疆政府：2026 冬博会惠民活动](https://www.xinjiang.gov.cn/xinjiang/bmdt/202610/1b2533f34c25442390078d17f47cc50f.shtml)：2026-10-16 报道，兑换细则需向雪场确认。
 
-本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源提交更新：[雪场模板](../templates/resort-template.md)。
+本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源通过 [Issue](https://github.com/SkyPiggy8/Awesome-Skiing/issues/new) 或 Pull Request 提交更新。

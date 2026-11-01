@@ -51,4 +51,4 @@
 
 - [吉林省政府：华美胜地开板报道](https://www.jl.gov.cn/yaowen/202511/t20251116_3511804.html)：2025—2026 雪季背景，非当季价格。
 
-本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源提交更新：[雪场模板](../templates/resort-template.md)。
+本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源通过 [Issue](https://github.com/SkyPiggy8/Awesome-Skiing/issues/new) 或 Pull Request 提交更新。

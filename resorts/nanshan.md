@@ -52,4 +52,4 @@
 - [南山官方介绍](https://nanshanski.com/nsjj)：页面含 2025—2026 雪季信息，用于地点和服务结构。
 - [南山官方票务入口](https://www.nanshanski.com/hxpjyd)：具体日期价格需在官方预订端确认。
 
-本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源提交更新：[雪场模板](../templates/resort-template.md)。
+本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源通过 [Issue](https://github.com/SkyPiggy8/Awesome-Skiing/issues/new) 或 Pull Request 提交更新。

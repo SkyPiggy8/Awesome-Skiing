@@ -52,4 +52,4 @@
 - [云顶官方：关于我们](https://www.secretgardenresorts.com/gywm/?lang=zh-cn)：场地与住宿背景。
 - [云顶官方：雪场概况与须知](https://secretgardenresorts.com/cp/?lang=zh-cn)：使用规则；设施数字存在历史版本差异。
 
-本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源提交更新：[雪场模板](../templates/resort-template.md)。
+本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源通过 [Issue](https://github.com/SkyPiggy8/Awesome-Skiing/issues/new) 或 Pull Request 提交更新。

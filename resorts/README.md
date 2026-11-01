@@ -1,6 +1,6 @@
 # 雪场指南与预算索引
 
-[返回首页](../README.md) · [预算计算方法](../docs/06-budget.md) · [出发清单](../templates/trip-checklist.md)
+[返回首页](../README.md) · [预算计算方法](../docs/06-budget.md) · [第一次滑雪](../docs/01-first-day.md)
 
 这里汇总室内与室外雪场的选择方法、末段交通、新手安排和统一口径的预算演算。
 
@@ -61,4 +61,4 @@
 
 欢迎补充其他城市近郊教学场、室内场、东北和西北其他目的地，以及日本、欧洲等海外雪场。海外条目需另外写清货币、汇率日期、教学语言、交通与保险适用范围；没有核验的信息保持待确认，不填想象中的报价。
 
-使用 [雪场模板](../templates/resort-template.md) 提交。每次到访只更新自己能够确认的部分，保留历史体验日期。
+欢迎通过 [Issue](https://github.com/SkyPiggy8/Awesome-Skiing/issues/new) 或 Pull Request 补充。每次到访只更新自己能够确认的部分，保留历史体验日期。

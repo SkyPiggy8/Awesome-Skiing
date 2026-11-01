@@ -52,4 +52,4 @@
 - [西岭雪山官网：滑雪场](https://xiling.cn/website/scenic_spot/spot_info?spotId=15)：场地区域介绍。
 - [西岭雪山官网](https://xiling.cn/)：当前公告与服务咨询入口。
 
-本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源提交更新：[雪场模板](../templates/resort-template.md)。
+本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源通过 [Issue](https://github.com/SkyPiggy8/Awesome-Skiing/issues/new) 或 Pull Request 提交更新。

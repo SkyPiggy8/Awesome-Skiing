@@ -1,6 +1,6 @@
 # 滑雪预算：把票、住、课、租和交通一起算
 
-[返回首页](../README.md) · [雪场目录](../resorts/README.md) · [可填写模板](../templates/budget-template.md)
+[返回首页](../README.md) · [雪场目录](../resorts/README.md)
 
 需要具体比价步骤和住滑例子，先看 [雪票怎么买、住滑怎么算](12-tickets-and-stay.md)；如何兼顾钱、进步和雪时，见 [投入取舍](13-filming-and-progress.md)。本页保留完整旅行预算模型。
 

@@ -51,4 +51,4 @@
 
 - [北京文旅平台：万龙介绍](https://s.visitbeijing.com.cn/attraction/118458)：历史介绍，列出的价格不作为现价。
 
-本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源提交更新：[雪场模板](../templates/resort-template.md)。
+本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源通过 [Issue](https://github.com/SkyPiggy8/Awesome-Skiing/issues/new) 或 Pull Request 提交更新。

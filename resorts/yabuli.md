@@ -51,4 +51,4 @@
 
 - [黑龙江省体育局：2025—2026 三山联网](https://tyj.hlj.gov.cn/tyj/c112420/202511/c00_31885318.shtml)：历史联滑政策背景，现季权益另行核实。
 
-本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源提交更新：[雪场模板](../templates/resort-template.md)。
+本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源通过 [Issue](https://github.com/SkyPiggy8/Awesome-Skiing/issues/new) 或 Pull Request 提交更新。

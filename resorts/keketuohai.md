@@ -52,4 +52,4 @@
 - [新疆体育局：滑雪度假地位置](https://tyj.xinjiang.gov.cn/xjtyj/c112509/202501/2685056d0440447d93a7fc7e701df977.shtml)：地区与场地背景。
 - [新疆政府：雪场定位](https://www.xinjiang.gov.cn/xinjiang/xwfb/202412/f9ab8e0cd0c54bb4b18e6fb6855e2dd7.shtml)：历史发展与类型介绍。
 
-本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源提交更新：[雪场模板](../templates/resort-template.md)。
+本页未宣称任何当前开放比例、每日班次或精确门市价。欢迎带着日期和来源通过 [Issue](https://github.com/SkyPiggy8/Awesome-Skiing/issues/new) 或 Pull Request 提交更新。

@@ -19,8 +19,7 @@
 | [入门教程](docs/) | 单双板选择、第一次滑雪、装备、安全、教学路线、预算与复盘 |
 | [雪场指南](resorts/) | 17 个代表性目的地的交通、新手安排和预算演算 |
 | [资源索引](resources/) | 教学视频、社区图文阅读记录、来源与核验方法 |
-| [实用模板](templates/) | 出发清单、预算表、练习日志与雪场条目模板 |
-| [统一 PDF](output/pdf/Awesome-Skiing-Handbook-CN.pdf) | 带目录、书签、链接和项目水印的 90 页离线手册 |
+| [统一 PDF](output/pdf/Awesome-Skiing-Handbook-CN.pdf) | 带目录、书签、链接和项目水印的离线手册 |
 | [单板焚诀](单板焚诀（飞机高铁上看完直接变专家）/) | JSBA 单板教程（2025 中文版）及其来源与权利说明 |
 
 ## 第一次来，从这里开始
@@ -34,7 +33,7 @@
 5. **去哪滑，出了车站怎么走？** [室内/室外雪场目录](resorts/README.md) · [具体站点与时间](resorts/transport.md)。
 6. **雪票、住滑、保暖、跟拍还有哪些细节？** [买票与住滑](docs/12-tickets-and-stay.md) · [面罩与穿衣](docs/03-equipment.md) · [录像复盘和时间投入](docs/13-filming-and-progress.md)。
 
-只剩十分钟准备？打开 [出发清单](templates/trip-checklist.md)。想先看视频？打开 [教学视频导航](resources/videos.md)：楚格山里人单双板系列、黄嘉蓝单板初级十节，以及 SAM 单板进阶合集。前两位链接 B 站，SAM 链接已核对的抖音原作者合集。
+只剩十分钟准备？打开 [第一次滑雪](docs/01-first-day.md)，直接看在家准备和到场顺序。想先看视频？打开 [教学视频导航](resources/videos.md)：楚格山里人单双板系列、黄嘉蓝单板初级十节，以及 SAM 单板进阶合集。前两位链接 B 站，SAM 链接已核对的抖音原作者合集。
 
 ## 内容地图
 
@@ -51,7 +50,7 @@
 | 怎么约课、安排交通、和朋友一起滑？ | [课程与出行](docs/07-lessons-and-travel.md) |
 | 雪镜起雾、鞋不舒服、雪板生锈怎么办？ | [维护与常见问题](docs/08-care-and-faq.md) |
 | 滑雪黑话看不懂 | [术语表](docs/09-glossary.md) |
-| 朋友怎么帮拍，省钱与进步怎么兼顾？ | [拍摄与进步](docs/13-filming-and-progress.md) · [练习日志](templates/practice-log.md) |
+| 朋友怎么帮拍，省钱与进步怎么兼顾？ | [拍摄、复盘与进步](docs/13-filming-and-progress.md) |
 
 ## 雪场覆盖
 
@@ -79,12 +78,8 @@
 
 ## 一起补充
 
-发现错误可以直接 [提交 Issue](https://github.com/SkyPiggy8/Awesome-Skiing/issues/new/choose)，会编辑 Markdown 的朋友可以提交 PR。不熟悉 Git 也可以只提供来源和修改建议。
+发现错误可以直接 [提交 Issue](https://github.com/SkyPiggy8/Awesome-Skiing/issues/new)，会编辑 Markdown 的朋友可以提交 PR。不熟悉 Git 也可以只提供来源和修改建议。
 
-- [贡献说明](CONTRIBUTING.md)
-- [雪场条目模板](templates/resort-template.md)
-- [预算模板](templates/budget-template.md)
 - [来源与核验方法](resources/sources.md)
-- [更新记录](CHANGELOG.md)
 
 原创内容沿用仓库的 [MIT License](LICENSE)。外链视频、照片、地图与第三方文章的权利归原作者，不因被链接而适用本仓库许可证；“单板焚诀”目录中的 JSBA 中文翻译资料也不适用 MIT License，按其文件封面的非付费交流说明提供。

@@ -1,6 +1,6 @@
 # 课程、交通与同行安排
 
-[返回首页](../README.md) · [预算](06-budget.md) · [出发清单](../templates/trip-checklist.md)
+[返回首页](../README.md) · [预算](06-budget.md) · [第一次滑雪](01-first-day.md)
 
 ## 要不要请教练，能自学吗？
 
