@@ -62,3 +62,13 @@
 - 没有把搜索摘要核验写成“实地体验”或“已完整观看”。
 
 模板：[雪场](templates/resort-template.md) · [预算](templates/budget-template.md) · [练习日志](templates/practice-log.md)。
+
+## 重新生成 PDF
+
+统一下载版由仓库里的 Markdown 生成，请不要直接修改 PDF。安装 [uv](https://docs.astral.sh/uv/) 后，在仓库根目录运行：
+
+```bash
+uv run --with-requirements requirements-pdf.txt python tools/build_pdf.py
+```
+
+生成结果固定写入 `output/pdf/Awesome-Skiing-Handbook-CN.pdf`。提交内容修改时，如果会影响手册正文，请同时重新生成并提交这份 PDF。
