@@ -2,7 +2,7 @@
 
 [返回首页](../README.md) · [基础知识](02-basics-and-safety.md) · [教学视频](../resources/videos.md)
 
-本页是学习路线和复盘提纲。练习地点由现场教练按能力、雪况和人流选择，动作不能只靠文字判断是否正确。以下阶段没有固定完成天数。
+把这页当成双板课程地图：知道现在练什么、下一步是什么，动作对不对让教练现场看。每个阶段都没有固定天数。
 
 视频主线选用楚格山里人的 [25 步双板教学（上）](https://www.bilibili.com/video/BV1bp4y1r7oE/)；进入连续转弯和平行式阶段后，再按能力看 [下集](https://www.bilibili.com/video/BV1pp4y1r71u/)。[完整视频目录](../resources/videos.md) 另有 50 个练习的资料入口和核验说明，按课堂进度选用。
 
@@ -41,7 +41,7 @@
 
 **可以继续的表现**：左右都能转，不会某一侧总朝滚落线冲出去，速度不会每个弯都继续累积。
 
-上述基本姿态、犁式和转弯概念参考 [REI 双板入门](https://www.rei.com/learn/expert-advice/how-to-ski.html)；具体动作由教练根据现场调整。下面的阶段检查与复盘结构为本仓库编辑建议。
+基本姿态、犁式和转弯概念参考 [REI 双板入门](https://www.rei.com/learn/expert-advice/how-to-ski.html)。练习坡度和动作细节让教练根据现场调整。
 
 ## 阶段 4：连续转弯与路线控制
 

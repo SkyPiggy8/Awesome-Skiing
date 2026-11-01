@@ -17,7 +17,7 @@
 | 学到后面 | 平行式、刻滑、大小弯、不同雪况与地形 | 连续换刃、刻滑、大小弯、不同雪况与地形 |
 | 学习投入 | 需要反复练习和反馈 | 同样需要反复练习和反馈 |
 
-关于初期感受，滑雪场的 [Blue Mountain 官方比较](https://thebarn.bluemountain.ca/barn/lift-line/should-i-learn-to-ski-or-learn-to-snowboard/) 也区分了向前/侧身、分脚移动与平地接驳。其“几小时、几天”的描述是一般经验，**这里不把它当作你的进度承诺**。
+关于初期感受，[Blue Mountain 的项目比较](https://thebarn.bluemountain.ca/barn/lift-line/should-i-learn-to-ski-or-learn-to-snowboard/) 也谈到了向前/侧身、分脚移动和平地接驳。至于“几小时、几天学会”，个体差异太大，别拿来给自己赶进度。
 
 ## 用四个问题做选择
 
@@ -44,8 +44,8 @@
 
 ## 社区经验给了什么补充
 
-在 [r/ski 的首次滑雪/换单板讨论](https://www.reddit.com/r/ski/comments/1sx08pm/beginner_ski_vs_snowboarding/) 中，提问者一次体验受挫、朋友主要滑单板；回复同时提到个人兴趣、朋友的板类运动背景和正式课程。它提醒我们：**一次不顺利未必说明项目不适合，也可能是教学、地形和节奏不合适。** 讨论区有项目偏好和个体差异，不能据此计算成功率。
+在 [r/ski 的首次滑雪/换单板讨论](https://www.reddit.com/r/ski/comments/1sx08pm/beginner_ski_vs_snowboarding/) 中，提问者第一次双板体验不顺，朋友又主要玩单板。回复里有人看重兴趣，有人提到板类运动经验，也有人建议先上正式课程。一次滑得难受，可能是项目不合口味，也可能是教学、地形和节奏没选好。
 
-小红书可先读蔡叔教滑雪的 [《单板滑了一整年，我为什么还是换回了双板》](https://www.xiaohongshu.com/explore/6a253f90000000001603e357)：已查看 7 页图文，值得参考的是个人偏好、平路移动和穿脱固定器的体感；其速度偏好和学习进度不作为入门标准。其他图文及链接访问办法见 [社区记录](../resources/community-notes.md)。本页选择表是编辑综合建议；AI 用于整理维度，未将汇总文中的百分比、人数与“几天必会”当成调查证据。
+小红书可先读蔡叔教滑雪的 [《单板滑了一整年，我为什么还是换回了双板》](https://www.xiaohongshu.com/explore/6a253f90000000001603e357)。我看了 7 页图文，其中关于个人偏好、平路移动和穿脱固定器的体感很具体；作者自己的速度偏好和学习进度，看看就好。更多图文见 [社区记录](../resources/community-notes.md)。
 
 选好后直接去：[双板视频与学习路线](04-ski-learning.md) / [单板视频与学习路线](05-snowboard-learning.md)。一次预约先专注一种；下次换项目完全可以，提前问清换板、换鞋、换课程是否额外收费。

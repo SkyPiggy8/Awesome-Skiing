@@ -42,7 +42,7 @@
 
 ### 算一个人均例子
 
-以下为**假设数值，不对应任何雪场报价**：两人一间住一晚，各滑两天。
+假设两个人住一晚、各滑两天，可以这样算：
 
 | 方案 | 人均计算 | 合计 |
 | --- | --- | ---: |
@@ -64,4 +64,4 @@
 
 近场、错峰、提前试清租赁与按目标练习，常比只找便宜几十元的票更有用。具体如何用录像减少无效重复，见 [跟拍与进步](13-filming-and-progress.md)。
 
-参考：首次课程含票租、近场和初学地形的比较方法可见 [REI 首次出行指南](https://www.rei.com/learn/expert-advice/planning-your-first-time-skiing-or-snowboarding.html)；票种确实分区的实例见 [广州官方当期说明](https://www.sina.cn/news/detail/5343007041652099.html)。本页计算、比价表与询问清单为原创编辑建议，未声称存在统一市场最低价。
+延伸阅读：[REI 首次出行指南](https://www.rei.com/learn/expert-advice/planning-your-first-time-skiing-or-snowboarding.html)；[广州当期票种说明](https://www.sina.cn/news/detail/5343007041652099.html)。
